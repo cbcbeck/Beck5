@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Beck5\Beck5\bin\Debug\Beck5.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Beck5\Beck5\obj\Debug\Beck5.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Beck5\Beck5\bin\Debug\Beck5.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Beck5\Beck5\bin\Debug\Beck5.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Beck5\Beck5\obj\Debug\Beck5.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Beck5\Beck5\obj\Debug\Beck5.pdb
